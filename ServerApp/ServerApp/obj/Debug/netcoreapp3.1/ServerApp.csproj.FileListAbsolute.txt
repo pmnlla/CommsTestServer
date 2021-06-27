@@ -1,0 +1,4 @@
+D:\Github\SharedMemoryServer\ServerApp\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csprojAssemblyReference.cache
+D:\Github\SharedMemoryServer\ServerApp\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.AssemblyInfoInputs.cache
+D:\Github\SharedMemoryServer\ServerApp\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.AssemblyInfo.cs
+D:\Github\SharedMemoryServer\ServerApp\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csproj.CoreCompileInputs.cache
