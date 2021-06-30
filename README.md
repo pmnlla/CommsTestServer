@@ -2,8 +2,5 @@
 A test for shared memory files
 
 # Disclaimer
-This software if provided with no warranty or support. This is simply a test for an upcoming small project of mine.
-You're welcome to look at this code or use it in your own projects **with credit**, but don't come back crying if it's broken.
-
-### Disclaimer 2
-This is still in development.
+This software if provided with no warranty or support. This is simply a learning test for an upcoming small project of mine.
+I have no clue how to code IPC, much less in c#. Almost all of this code was found in the Microsoft Documentation for TCPListener. 
