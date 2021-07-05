@@ -1,4 +1,4 @@
-# SharedMemoryServer
+# CommsTestServer
 A test for shared memory files
 
 # Disclaimer
